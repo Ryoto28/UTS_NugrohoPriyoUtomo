@@ -1,0 +1,8 @@
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\obj\Debug\UTS.csproj.AssemblyReference.cache
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\obj\Debug\UTS.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\bin\Debug\UTS.exe.config
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\bin\Debug\UTS.exe
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\bin\Debug\UTS.pdb
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\obj\Debug\UTS.exe
+D:\Kuliah AMIKOM\Pemrograman\uts\UTS\UTS\obj\Debug\UTS.pdb
